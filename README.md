@@ -93,5 +93,5 @@ The notebook contains the following charts:
 ---
 
 ## Related Projects
-- [Northwind Sales Analytics](link to your other repo) — SQL-based sales 
+- [[Northwind Sales Analytics](https://github.com/OCodeJK/northwind_analysis_sql)] — SQL-based sales 
   analysis using PostgreSQL and DBeaver
