@@ -1,4 +1,5 @@
 # Superstore Sales EDA
+![Profit Margin by Discount Level](insights/discount_margin_chart.png)
 
 ## Overview
 An exploratory data analysis of the Sample Superstore dataset containing 9,994 
@@ -95,5 +96,3 @@ The notebook contains the following charts:
 ## Related Projects
 - [[Northwind Sales Analytics](https://github.com/OCodeJK/northwind_analysis_sql)] — SQL-based sales 
   analysis using PostgreSQL and DBeaver
-
-![Profit Margin by Discount Level](insights/discount_margin_chart.png)
