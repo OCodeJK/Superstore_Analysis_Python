@@ -86,7 +86,7 @@ The notebook contains the following charts:
 ## How to Run
 1. Clone this repository
 2. Download the dataset from this repo (Superstore_Sample.csv)
-3. Place the CSV in the `/data` folder
+3. Place the CSV in your work folder
 4. Open `notebooks/superstore_eda.ipynb` in Jupyter Notebook
 5. Run all cells from top to bottom
 
