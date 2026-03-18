@@ -1,5 +1,5 @@
 # Superstore Sales EDA
-![Profit Margin by Discount Level](insights/discount_margin_chart.png)
+![Profit Margin by Discount Level](insights/discount_margin_chart.jpeg)
 
 ## Overview
 An exploratory data analysis of the Sample Superstore dataset containing 9,994 
